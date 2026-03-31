@@ -1,0 +1,5 @@
+{
+  "name": "ShengSTEM AI Tutor",
+  "description": "An AI-powered STEM tutor that explains complex concepts using local Kenyan analogies and code-switching between English, Swahili, and Sheng.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
